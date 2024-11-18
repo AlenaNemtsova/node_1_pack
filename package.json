@@ -2,7 +2,7 @@
   "name": "@alena_ne/node_1_pack",
   "author": "Alena Nemtsova",
   "description": "reverse polish notation calculator",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AlenaNemtsova/node_1_pack.git"
