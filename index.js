@@ -1,4 +1,6 @@
-console.log("Hello! This is the version 1.0.0.");
+const { version } = require('./package.json');
+
+console.log(`Hello! This is the version ${version}`);
 
 function calculateRPN(expression) {
     const stack = [];
